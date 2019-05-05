@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Term
+comment1.params=t1\ cd\ nOT
+comment1.target=Term(double,\ double,\ int)
+comment2.params=
+comment2.target=double\ getTerm()
+comment3.params=
+comment3.target=double\ getSumOfTerm()
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Quadratic
+comment0.text=\r\n\ csc401\ Lab05\ assignment\ 2\ (QuadraticFormular)\ .\r\n\r\n\ @author\ (Garba\ Ndatsu\ Mubaraq\ U15/FNS/CSC/025)\r\n\ @version\ ()\r\n
+comment1.params=_a\ _b\ _c
+comment1.target=Quadratic(double,\ double,\ double)
+comment2.params=
+comment2.target=double\ rt1()
+comment3.params=
+comment3.target=double\ rt2()
+numComments=4
